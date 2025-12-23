@@ -20,3 +20,8 @@ registration form for social media (done as part of the training)
 4. **Error Messaging**: Validation messages must be clear and understandable for the user.
 
 ---
+
+### How to run
+1. Clone the repository.
+2. Open `index.html` in your browser.
+
